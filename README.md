@@ -7,7 +7,7 @@
 ## 项目简介
 基于ESP32的智能家居控制系统，通过MCP协议实现大模型对小爱音箱和米家设备的深度控制。
 
-[演示视频](https://b23.tv/0KlOaJY) | [完整教程](https://bxk64web49.feishu.cn/docx/XAVJdha5FoI5bjxKELqcz3rJnwg) | [固件下载](https://gitee.com/panzuji/ha-esp32/releases/)
+[演示视频](https://b23.tv/0KlOaJY) | [完整教程](https://bxk64web49.feishu.cn/docx/XAVJdha5FoI5bjxKELqcz3rJnwg) | [固件下载](https://github.com/toddpan/ha-esp32/releases/)
 
 ## 🚀 技术架构
 
