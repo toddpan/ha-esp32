@@ -1,5 +1,5 @@
 
-# MCP智能家居网关
+# MCP大模型智能家居网关
 
 ![version](https://img.shields.io/badge/version-v1.0.15-blue)
 ![ESP32](https://img.shields.io/badge/platform-ESP32-green)
